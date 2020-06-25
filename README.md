@@ -1,5 +1,7 @@
 # image-processing
- Some image processing tasks, including:
+An interesting repository, which helpfully helps you.
+
+Some image processing tasks, including:
 
 1. LineExtraction: 
 
