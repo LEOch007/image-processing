@@ -1,5 +1,5 @@
 # image-processing
-An interesting repository, which helpfully helps you.
+An interesting repository, which helpfully helps you. 
 
 Some image processing tasks, including:
 
